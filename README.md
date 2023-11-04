@@ -1,4 +1,4 @@
-## Olá dev, sou Leonardo Alaff
+## Olá dev, sou Leonardo Alaff!
 
 - 🌱 Estudando ciência da computação
 - 📫 Contate-me no email: leonardoalaff@gmail.com
