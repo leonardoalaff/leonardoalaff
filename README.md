@@ -2,42 +2,13 @@
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
   <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=MEU%20NOME%20É%20LEONARDO%20ALAFF;ESTUDO%20CIÊNCIA%20DA%20COMPUTAÇÃO;&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=ESTUDANTE%20DE%20CIÊNCIA%20DA%20COMPUTAÇÃO;&font=Fira%20Code&center=true&width=460&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  CONTATOS<br>
-   </p>
-<p align="center">
-<a href="https://discord.com/users/leonardoalaff#8670" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
-<a href="https://twitter.com/AlaffLeonardo" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/leonardoalaff" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/leonardoalaff" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="mailto:leonardoalaff@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
-</p> <br><br>
-
- 
-<p align="center"> 
- VISITAS<br> <br>
-  <img src="https://profile-counter.glitch.me/leonardoalaff/count.svg"/>
-  </p>
-  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalaff&theme=gotham&layout=compact"width="47%"/> 
-</p>
-
-<p align="center">
-<a href="https://github.com/leonardoalaff?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=leonardoalaff&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Leonardoalaff's github-readme-stats"/></a>
-<a href="https://github.com/leonardoalaff?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=leonardoalaff&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
-</p>
-
-<br/>
-
-<p align="center"> 
- TECNOLOGIAS<br>
 <p align="center">
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -81,7 +52,30 @@
 </table>
 <br><br>
 
+<p align="center">
+<p align="center">
+<a href="https://discord.com/users/leonardoalaff#8670" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
+<a href="https://twitter.com/AlaffLeonardo" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/leonardoalaff" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/leonardoalaff" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<a href="mailto:leonardoalaff@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+</p><br>
+ 
+<p align="center"> 
+ VISITAS<br> <br>
+  <img src="https://profile-counter.glitch.me/leonardoalaff/count.svg"/>
+  </p> <br><br>
+  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalaff&theme=gotham&layout=compact"width="47%"/> 
+</p><br><br>
 
+<p align="center">
+<a href="https://github.com/leonardoalaff?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=leonardoalaff&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Leonardoalaff's github-readme-stats"/></a>
+<a href="https://github.com/leonardoalaff?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=leonardoalaff&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+</p>
+
+<br/>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
