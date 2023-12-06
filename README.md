@@ -1,9 +1,7 @@
 
-<p align="center">
-  <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
-  <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=ESTUDANTE%20DE%20CIÊNCIA%20DA%20COMPUTAÇÃO;&font=Fira%20Code&center=true&width=460&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
-</p>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4500&lines=Estudante+de+ciência+da+computação;" />
+</h1>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
