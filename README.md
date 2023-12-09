@@ -76,25 +76,24 @@
   <!-- **************************************************************** VISITAS POR PAÍSES **************************************************************** -->
 <p align="center"><a href="https://github.com/leonardoalaff"><img src="https://s11.flagcounter.com/countxl/cEg/bg_0D1117/txt_FFFFFF/border_0D1117/columns_6/maxflags_12/viewers_3/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a></p><br>
  
-  <!-- **************************************************************** LINGUAGENS MAIS USADAS **************************************************************** -->
+  <!-- **************************************************************** STATS **************************************************************** -->
+<div align="center">
+  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=leonardoalaff&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00FF00&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en" alt="Leonardo Alaff" />
   
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalaff&theme=gotham&layout=compact"width="47%"/> 
-</p><br><br>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalaff&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+</div> 
 
-
-<!-- **************************************************************** STATS **************************************************************** -->
-<p align="center">
-<a href="https://github.com/leonardoalaff?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=leonardoalaff&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Leonardoalaff's github-readme-stats"/></a>
-<a href="https://github.com/leonardoalaff?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=leonardoalaff&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+ </div>
+  
+ <!--Total Contributions--> 
+ <p align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=leonardoalaff&theme=tokyonight_duo&hide_border=true"
 </p>
 
 <br/>
 
 <!-- **************************************************************** GRÁFICO **************************************************************** -->
-<p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoalaff&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Gráfico%20de%20contribuição%20total%20em%20todos%20os%20repositórios" width="95%" alt="activity graph">
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardoalaff&bg_color=0d1117&color=ffffff&line=FF00FF&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- **************************************************************** TROFÉUS **************************************************************** -->
