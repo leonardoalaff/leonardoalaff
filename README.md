@@ -97,11 +97,9 @@
 
 <!-- **************************************************************** TROFÉUS **************************************************************** -->
 <p align="center">
-    <a href="https://github.com/leonardoalaff/leonardoalaff">
-        <img src="https://github-profile-trophy.vercel.app/?username=leonardoalaff&theme=radical&no-frame=false&no-bg=true&margin-w=4/> 
+    <a href="https://github.com/getintorj/getintorj">
+        <img src="https://github-profile-trophy.vercel.app/?username=leonardoalaff&column=-1&theme=radical&layout=compact"width="95%"/> 
 </p>
-          
-![](https://github-profile-trophy.vercel.app/?username=leonardoalaff&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
