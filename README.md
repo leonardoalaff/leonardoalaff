@@ -75,10 +75,6 @@
 
   <!-- **************************************************************** VISITAS POR PAÍSES **************************************************************** -->
 <p align="center"><a href="https://github.com/leonardoalaff"><img src="https://s11.flagcounter.com/countxl/cEg/bg_0D1117/txt_FFFFFF/border_0D1117/columns_6/maxflags_12/viewers_3/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a></p><br>
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&pause=1000&color=F7F539E3&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
-</p>
  
   <!-- **************************************************************** LINGUAGENS MAIS USADAS **************************************************************** -->
   
