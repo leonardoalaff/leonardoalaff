@@ -3,8 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFF00&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Estudante+de+ciência+da+computação...;+Computer+science+study..." />
 </h1>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
 
 
 <!-- **************************************************************** TECNOLOGIAS **************************************************************** -->
