@@ -1,7 +1,7 @@
 
 <!-- **************************************************************** APRESENTAÇÃO **************************************************************** -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Estudante+de+ciência+da+computação...;+Computer+science+study..." />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFF00&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Estudante+de+ciência+da+computação...;+Computer+science+study..." />
 </h1>
 
 
@@ -9,7 +9,7 @@
 
 
 <!-- **************************************************************** TECNOLOGIAS **************************************************************** -->
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=48F3F7&center=true&width=700&lines=Tecnologias;Technologies" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=FF00FF&center=true&width=700&lines=Tecnologias;Technologies" alt="Typing SVG" /></a></h3>
 <p align="center">
 <p align="center">
 <div style="display: flex; align-items: flex-start; align: center">
@@ -75,8 +75,13 @@
 
   <!-- **************************************************************** VISITAS POR PAÍSES **************************************************************** -->
 <p align="center"><a href="https://github.com/leonardoalaff"><img src="https://s11.flagcounter.com/countxl/cEg/bg_0D1117/txt_FFFFFF/border_0D1117/columns_6/maxflags_12/viewers_3/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a></p><br>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&pause=1000&color=F7F539E3&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p>
  
   <!-- **************************************************************** LINGUAGENS MAIS USADAS **************************************************************** -->
+  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalaff&theme=gotham&layout=compact"width="47%"/> 
 </p><br><br>
