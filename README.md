@@ -62,7 +62,11 @@
 <p align="center"> 
  VISITAS<br> <br>
   <img src="https://profile-counter.glitch.me/leonardoalaff/count.svg"/>
-  </p> <br><br>
+  </p>
+<p align="center"><a href="https://github.com/leonardoalaff"><img src="https://s11.flagcounter.com/countxl/cEg/bg_0D1117/txt_FFFFFF/border_0D1117/columns_6/maxflags_12/viewers_3/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a></p>
+
+
+  
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalaff&theme=gotham&layout=compact"width="47%"/> 
