@@ -50,14 +50,18 @@
 </table>
 <br><br>
 
-<p align="center">
-<p align="center">
-<a href="https://discord.com/users/leonardoalaff#8670" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
-<a href="https://twitter.com/AlaffLeonardo" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/leonardoalaff" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/leonardoalaff" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="mailto:leonardoalaff@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
-</p><br>
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonardoalaff) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardoalaff)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/leonardoalaff#8670)
+[![Twitter](https://img.shields.io/badge/Twitter-%2300ACED.svg?logo=Twitter&logoColor=white)](https://twitter.com/AlaffLeonardo)
+[![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=wm#all?compose=CllgCJftLxBbdZxQNrJKqLRXxGJflbLDptVDjCbWwlVznzBqsHSfHkfwZsvbgLkKGLgKvpNftWL)
+
+
+</div>
+---------------------------------------------------
+
  
 <p align="center"> 
  VISITAS<br> <br>
