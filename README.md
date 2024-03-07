@@ -1,4 +1,11 @@
 <!-- **************************************************************** APRESENTAÇÃO **************************************************************** -->
+<p align="center">
+    <a href="http://jrohit.com.np" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=leonardoalaff&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    </a>
+
+
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFF00&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Estudante+de+ciência+da+computação...;+Computer+science+study..." />
 </h1>
@@ -14,10 +21,6 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
     </td>
@@ -31,6 +34,14 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
       <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+      <br>PHP
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
